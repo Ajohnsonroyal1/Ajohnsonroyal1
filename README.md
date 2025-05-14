@@ -1,42 +1,35 @@
-## 👋 Hi there, I'm Abdul (Ajohnsonroyal1)
+# 👋 Hi, I'm Abdul Johnson-Royal
 
-Welcome to my GitHub profile! I’m a career-transitioner with a strong background in logistics, operations, and client-centric leadership—and I’m currently diving deep into tech as a Business Intelligence and Data Analytics student with TripleTen Bootcamp.
+Welcome to my GitHub! I’m a business intelligence analyst with a passion for turning messy data into clear insights and meaningful impact.
 
----
-
-### 💻 What I’m currently working on:
-- Developing data-driven dashboards and BI projects using Python, SQL, Excel, and Tableau.
-- Building real-world analytics case studies to demonstrate insights and drive business value.
+After years leading retail operations, I transitioned into tech through TripleTen's rigorous BI program — combining my leadership experience with cutting-edge skills in Tableau, SQL, Excel, and Power BI. Now, I use data storytelling to make better business decisions, design dashboards, and guide strategy.
 
 ---
 
-### 📚 What I’m currently learning:
-- Data wrangling and analysis using Pandas & NumPy
-- Writing optimized SQL queries for databases
-- Data visualization in Tableau & Power BI
-- Creating portfolio-ready case studies
+## 🧰 Technical Toolkit
+
+- **Languages & Tools**: SQL, Python, Excel, Power BI, Tableau
+- **Data Skills**: EDA, dashboard design, cohort analysis, stakeholder storytelling
+- **Other Tools**: GitHub, Notion, SAP, Oracle, Shopify, CRM Systems
 
 ---
 
-### 🤝 What I’m looking to collaborate on:
-- Projects involving retail analytics, operations optimization, and customer experience analysis.
-- Any open-source BI or data storytelling projects.
+## 📊 Featured Projects
+
+| Project | Description | Tools |
+|--------|-------------|--------|
+| [📦 Zomato Customer Segmentation](https://github.com/Ajohnsonroyal1) | Segmented 100K+ users using RFM metrics and dashboards to support Zomato’s retention strategy. | SQL, Python, Tableau |
+| [🧠 Stress Less (COVID Behavioral Analysis)](https://github.com/Ajohnsonroyal1/AJ-STRESSLESS) | Created a data storytelling dashboard visualizing emotional patterns and coping strategies during COVID. | Tableau |
+| [📉 Superstore Returns Dashboard](https://public.tableau.com/shared/JSCHFS2QK?:display_count=n&:origin=viz_share_link) | Built a dashboard to identify root causes of returns, using visuals like maps, scatter plots & KPIs. | Tableau, Excel |
+| [🔄 Placeholder: Sales Cohort Dashboard (Coming Soon)]() | In progress – analyzing cohort behaviors to optimize customer lifecycle value. | SQL, Power BI |
 
 ---
 
-### 💬 Ask me about:
-- My transition from luxury retail and military logistics to data analytics.
-- How I apply real-world business insight to technical problem solving.
+## 📫 Let’s Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/abdul-johnson)
+- 📬 abdul.johnson59@outlook.com
 
 ---
 
-### 📫 How to reach me:
-- Email: abdul.johnson95@gmail.com
-- LinkedIn: [linkedin.com/in/ajohnsonroyal](https://www.linkedin.com/in/ajohnsonroyal)
-
----
-
-### ✨ Fun fact:
-- I used to coordinate logistics for over 800 Army personnel—and now I coordinate data to find insights that drive smart business decisions!
-
-Thanks for stopping by!
+_“The goal is to turn data into insight, and insight into action.” – Carly Fiorina_
