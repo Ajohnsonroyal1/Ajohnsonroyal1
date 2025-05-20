@@ -21,7 +21,6 @@ After years leading retail operations, I transitioned into tech through TripleTe
 | [📦 Zomato Customer Segmentation](https://github.com/Ajohnsonroyal1) | Segmented 100K+ users using RFM metrics and dashboards to support Zomato’s retention strategy. | SQL, Python, Tableau |
 | [🧠 Stress Less (COVID Behavioral Analysis)](https://github.com/Ajohnsonroyal1/AJ-STRESSLESS) | Created a data storytelling dashboard visualizing emotional patterns and coping strategies during COVID. | Tableau |
 | [📉 Superstore Returns Dashboard](https://public.tableau.com/shared/JSCHFS2QK?:display_count=n&:origin=viz_share_link) | Built a dashboard to identify root causes of returns, using visuals like maps, scatter plots & KPIs. | Tableau, Excel |
-| [🔄 Placeholder: Sales Cohort Dashboard (Coming Soon)]() | In progress – analyzing cohort behaviors to optimize customer lifecycle value. | SQL, Power BI |
 
 ---
 
